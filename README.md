@@ -11,6 +11,24 @@ I'm a __backend developer__. I am currently a __Software Engineer__ working at _
 * 💼 Currently working at [Ilhasoft](https://www.ilhasoft.com.br/) <br/>
 * 📫 Contact me [dyohan9](https://www.linkedin.com/in/dyohan9)
 
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyohan9&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="140"
+      src="https://github-readme-stats.vercel.app/api?username=dyohan9&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+
 ### Programming Languages  :rocket:
 |<img src="https://user-images.githubusercontent.com/5360835/87236392-6510ef80-c3bf-11ea-9a73-396263917cd2.png" width=60> | <img src="https://user-images.githubusercontent.com/5360835/87236398-7b1eb000-c3bf-11ea-9d89-0ad78850f881.jpg" width=60> | <img src="https://user-images.githubusercontent.com/5360835/87236417-d781cf80-c3bf-11ea-9bea-92cd44961bd7.png" width=60>
 |:---:|:---:|:---:|
