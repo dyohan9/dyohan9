@@ -6,9 +6,9 @@
   <a href="mailto:dyohan9@gmail.com">E-mail</a>  
 </p>
 
-I'm a __backend developer__. I am currently a __Software Engineer__ working at __Ilhasoft__, I have been in the systems development area for 10 years as an adventurer and I have been in the job market for 3 years. I'm ready for new speeches and projects.
+I'm a __backend developer__. I am currently a __Senior Software Engineer__ working at __Weni__, I have been in the systems development area for 10 years as an adventurer and I have been in the job market for 3 years. I'm ready for new speeches and projects.
 
-* 💼 Currently working at [Ilhasoft](https://www.ilhasoft.com.br/) <br/>
+* 💼 Currently working at [Weni](https://www.weni.ai/) <br/>
 * 📫 Contact me [dyohan9](https://www.linkedin.com/in/dyohan9)
 
 
