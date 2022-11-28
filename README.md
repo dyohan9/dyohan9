@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dyohan9">Linkedin</a> •
-  <a href="https://www.instagram.com/dyohan9/">Instagram</a> •
+  <a href="https://www.instagram.com/danielyohanb/">Instagram</a> •
   <a href="mailto:dyohan9@gmail.com">E-mail</a>  
 </p>
 
