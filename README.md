@@ -6,9 +6,8 @@
   <a href="mailto:dyohan9@gmail.com">E-mail</a>  
 </p>
 
-I'm a __backend developer__. I am currently a __Staff Software Engineer__ working at __Olx Brazil__, I have been in the systems development area for 10 years as an adventurer and I have been in the job market for 3 years. I'm ready for new speeches and projects.
+I'm a __backend developer__. I'm currently a __Staff Software Engineer__, I've been in the systems development area for 10 years as an adventurer and I've been in the job market for 5 years. I'm ready for new speeches and projects.
 
-* 💼 Currently working at [Olx Brazil](https://www.olx.com.br/) <br/>
 * 📫 Contact me [dyohan9](https://www.linkedin.com/in/dyohan9)
 
 
