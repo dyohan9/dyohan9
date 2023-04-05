@@ -6,7 +6,7 @@
   <a href="mailto:dyohan9@gmail.com">E-mail</a>  
 </p>
 
-I'm a __backend developer__. I'm currently a __Staff Software Engineer__, I've been in the systems development area for 10 years as an adventurer and I've been in the job market for 5 years. I'm ready for new speeches and projects.
+I'm a __backend developer__. I'm currently a __Staff Software Engineer__, I've been in the systems development area for 15 years as an adventurer and I've been in the job market for 6 years. I'm ready for new speeches and projects.
 
 * 📫 Contact me [dyohan9](https://www.linkedin.com/in/dyohan9)
 
